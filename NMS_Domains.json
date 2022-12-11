@@ -8,10 +8,6 @@
 		{
 			"ID": "2000q",
 			"URL": "https://hisky-nms-qa.jooule.com/"
-		},
-		{
-			"ID": "3000i",
-			"URL": "https://hisky-nms-integration.jooule.com/"
 		}
 	]
 }
