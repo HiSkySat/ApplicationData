@@ -7,11 +7,11 @@
 		},
 		{
 			"ID": "2000",
-			"URL": "https://hisky-nms-qa.jooule.com/"
+			"URL": "https://hisky-nms-qa.jooule.com"
 		},
 		{
 			"ID": "3000",
-			"URL": "https://hisky-nms-integration.jooule.com/"
+			"URL": "https://hisky-nms-integration.jooule.com"
 		}
 	]
 }
