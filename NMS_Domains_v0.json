@@ -1,18 +1,24 @@
 {
-	"NMS domains": 
-	[
-		{
+	"NMS domains": [{
 			"ID": "1000",
+			"DomainName": "",
 			"URL": "https://www.hisky360.com:8000/api/graphql"
 		},
 		{
 			"ID": "2000",
+			"DomainName": "",
 			"URL": "https://iotarsat.com.ar:8000/api/graphql"
 		},
 		{
 			"ID": "3000",
+			"DomainName": "",
 			"URL": "https://dev2.hiskynms.com/api/graphql"
+		},
+		{
+			"ID": "4000",
+			"DomainName": "QA",
+			"URL": "https://qa.hiskynms.com:8000/api/graphql"
 		}
-		
+
 	]
 }
