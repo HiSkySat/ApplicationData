@@ -16,19 +16,13 @@
 		},
 		{
 			"ID": "4000",
-			"DomainName": "QA1",
+			"DomainName": "QA",
 			"URL": "https://qa.hiskynms.com:8000/api/graphql"
 		},
 		{
 			"ID": "6000",
-			"DomainName": "QA2",
-			"URL": "https://qa.hiskynms.com:8000/api/graphql"
-		},
-		{
-			"ID": "6000",
-			"DomainName": "QA3",
-			"URL": "https://qa.hiskynms.com:8000/api/graphql"
-		}
-
+			"DomainName": "DEV",
+			"URL": "https://dev.hiskynms.com:8000/api/graphql"
+        }
 	]
 }
