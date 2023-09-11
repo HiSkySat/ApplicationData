@@ -20,6 +20,11 @@
 			"URL": "https://qa.hiskynms.com:8000/api/graphql"
 		},
 		{
+			"ID": "5000",
+			"DomainName": "INT",
+			"URL": "https://integration.hiskynms.com:8000/api/graphql"
+		},
+		{
 			"ID": "6000",
 			"DomainName": "DEV",
 			"URL": "https://dev.hiskynms.com:8000/api/graphql"
