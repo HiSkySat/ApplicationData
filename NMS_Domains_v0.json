@@ -13,7 +13,7 @@
 		},
 		{
 			"ID": "3000",
-			"DomainName": "",
+			"DomainName": "DEV2",
 			"apiType": 1,
 			"URL": "https://dev2.hiskynms.com/api/graphql"
 		},
