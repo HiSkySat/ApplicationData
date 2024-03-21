@@ -6,6 +6,12 @@
 			"URL": "https://www.hisky360.com:8000/api/graphql"
 		},
 		{
+			"ID": "1100",
+			"DomainName": "",
+			"apiType": 0,
+			"URL": "https://intelsat.hiskynms.com:8000/api/graphql"
+		},
+		{
 			"ID": "2000",
 			"DomainName": "",
 			"apiType": 0,
