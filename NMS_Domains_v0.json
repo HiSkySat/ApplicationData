@@ -8,7 +8,7 @@
 		{
 			"ID": "1100",
 			"DomainName": "",
-			"apiType": 0,
+			"apiType": 1,
 			"URL": "https://intelsat.hiskynms.com:8000/api/graphql"
 		},
 		{
