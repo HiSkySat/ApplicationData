@@ -19,7 +19,7 @@
 		},
 		{
 			"ID": "4000",
-			"DomainName": "QA",
+			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://qa.hiskynms.com:8000/api/graphql"
 		},
