@@ -52,6 +52,18 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://intelsat2.hiskynms.com:8000/api/graphql"
+		},
+		{
+			"ID": "8002",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://hughes.hiskynms.com:8000/api/graphql"
+		},
+		{
+			"ID": "8003",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://telespazio.hiskynms.com/:8000/api/graphql"
 		}
 	]
 }
