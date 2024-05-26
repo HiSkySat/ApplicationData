@@ -63,7 +63,7 @@
 			"ID": "8003",
 			"DomainName": "",
 			"apiType": 1,
-			"URL": "https://telespazio.hiskynms.com/:8000/api/graphql"
+			"URL": "https://telespazio.hiskynms.com:8000/api/graphql"
 		}
 	]
 }
