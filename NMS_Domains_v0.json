@@ -70,6 +70,12 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://intelsat3.hiskynms.com/api/graphql"
+		},
+		{
+			"ID": "8005",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://hughesbrazil.hiskynms.com/api/graphql"
 		}
 	]
 }
