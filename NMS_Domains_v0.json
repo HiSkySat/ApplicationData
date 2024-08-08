@@ -76,6 +76,12 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://hughesbrazil.hiskynms.com/api/graphql"
+		},
+		{
+			"ID": "8006",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://telespaziobrazil.hiskynms.com/api/graphql"
 		}
 	]
 }
