@@ -82,6 +82,12 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://telespaziobrazil.hiskynms.com/api/graphql"
+		},
+		{
+			"ID": "8007",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://intelsat-integration.hiskynms.com/api/graphql"
 		}
 	]
 }
