@@ -88,12 +88,7 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://intelsat-integration.hiskynms.com/api/graphql"
-		},
-			{
-			"ID": "9000",
-			"DomainName": "DEV3",
-			"apiType": 1,
-			"URL": "https://dev2-1000.hiskynms.com/api/graphql"
 		}
+			
 	]
 }
