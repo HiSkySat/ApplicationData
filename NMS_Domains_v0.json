@@ -42,18 +42,6 @@
 			"URL": "https://qa2.hiskynms.com/api/graphql"
 		},
 		{
-			"ID": "8000",
-			"DomainName": "",
-			"apiType": 1,
-			"URL": "https://intelsat.hiskynms.com:8000/api/graphql"
-		},
-		{
-			"ID": "8001",
-			"DomainName": "",
-			"apiType": 1,
-			"URL": "https://intelsat2.hiskynms.com:8000/api/graphql"
-		},
-		{
 			"ID": "8002",
 			"DomainName": "",
 			"apiType": 1,
