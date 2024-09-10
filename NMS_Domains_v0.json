@@ -3,7 +3,7 @@
 			"ID": "1000",
 			"DomainName": "",
 			"apiType": 1,
-			"URL": "https://www.hisky360.com/api/graphql"
+			"URL": "https://hisky360.com/api/graphql"
 		},
 		{
 			"ID": "2000",
