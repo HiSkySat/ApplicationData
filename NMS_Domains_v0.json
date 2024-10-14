@@ -82,7 +82,13 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://hughesindia.hiskynms.com/api/graphql"
-		}
+		},
+		{
+			"ID": "7010",
+			"DomainName": "QA3",
+			"apiType": 1,
+			"URL": "https://qa2.hiskynms.com/api/graphql"
+		},
 			
 	]
 }
