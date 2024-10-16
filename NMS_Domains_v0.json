@@ -34,8 +34,8 @@
 			"DomainName": "DEV",
 			"apiType": 1,
 			"URL": "https://dev.hiskynms.com:8000/api/graphql"
-        },
-				{
+		},
+		{
 			"ID": "7000",
 			"DomainName": "QA2",
 			"apiType": 1,
