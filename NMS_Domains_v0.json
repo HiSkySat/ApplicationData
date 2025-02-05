@@ -42,6 +42,12 @@
 			"URL": "https://qa2.hiskynms.com/api/graphql"
 		},
 		{
+			"ID": "7001",
+			"DomainName": "Tests",
+			"apiType": 1,
+			"URL": "https://tests.hiskynms.com/api/graphql"
+		},
+		{
 			"ID": "8002",
 			"DomainName": "",
 			"apiType": 1,
