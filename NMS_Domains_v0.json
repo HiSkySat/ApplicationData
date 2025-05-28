@@ -18,6 +18,12 @@
 			"URL": "https://dev2.hiskynms.com/api/graphql"
 		},
 		{
+			"ID": "3001",
+			"DomainName": "DEV2-EPH",
+			"apiType": 1,
+			"URL": "https://dev2-ephemeral.hiskynms.com/api/graphql"
+		},
+		{
 			"ID": "4000",
 			"DomainName": "",
 			"apiType": 1,
