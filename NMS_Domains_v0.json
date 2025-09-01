@@ -24,24 +24,6 @@
 			"URL": "https://dev2-ephemeral.hiskynms.com/api/graphql"
 		},
 		{
-			"ID": "4000",
-			"DomainName": "",
-			"apiType": 1,
-			"URL": "https://qa.hiskynms.com:8000/api/graphql"
-		},
-		{
-			"ID": "5000",
-			"DomainName": "INT",
-			"apiType": 1,
-			"URL": "https://integration.hiskynms.com:8000/api/graphql"
-		},
-		{
-			"ID": "6000",
-			"DomainName": "DEV",
-			"apiType": 1,
-			"URL": "https://dev.hiskynms.com:8000/api/graphql"
-		},
-		{
 			"ID": "7000",
 			"DomainName": "QA2",
 			"apiType": 1,
