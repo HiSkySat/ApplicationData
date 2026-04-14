@@ -79,10 +79,10 @@
 			"URL": "https://intelsat4.hiskynms.com/api/graphql"
 		},
 		{
-			"ID": "8010",
+			"ID": "8011",
 			"DomainName": "",
 			"apiType": 1,
-			"URL": "https://osb.hiskynms.com/api/graphql"
+			"URL": "https://pulsec.net/api/graphql"
 		}
 			
 	]
