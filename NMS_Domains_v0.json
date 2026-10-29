@@ -89,6 +89,12 @@
 			"DomainName": "",
 			"apiType": 1,
 			"URL": "https://pulsec.net/api/graphql"
+		},
+		{
+			"ID": "8012",
+			"DomainName": "",
+			"apiType": 1,
+			"URL": "https://nms-test.com/api/graphql"
 		}
 			
 	]
